@@ -1,0 +1,9 @@
+.featurette .col-md-5 {
+    align-self: center;
+}
+
+.featurette img {
+    min-width: 100%;
+    object-fit: contain;
+    align-self: center;
+}
